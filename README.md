@@ -48,7 +48,7 @@ Backend (Java Spring Boot)--------
 Project Setup:--
 
 Clone the Repository:
-git clone https://github.com/yourusername/hotel-booking-platform.git
+git clone https://github.com/yourusername/hotel-booking-platform.git  //// eg. for me the yourusername="1104ASHUTOSH"
 cd hotel-booking-platform/backend
 
 Build the Project:
